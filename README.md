@@ -1,6 +1,6 @@
 # phythonworkspace
 
-it's my first readme file. 
+It's my first readme file. 
 
 My first language will be python. 
 
